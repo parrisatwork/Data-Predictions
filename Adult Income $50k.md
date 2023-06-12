@@ -40,6 +40,7 @@ class: >50K, <=50K
 
 # Exploratory Data Analysis
 2 analytical insights from your data analysis
+![image](https://github.com/parrisatwork/Data-Predictions/assets/128560277/c678c564-9a46-4c5d-9cd1-79876dbe35ea)
 
 
 
