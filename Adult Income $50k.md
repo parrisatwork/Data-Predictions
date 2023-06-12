@@ -46,6 +46,7 @@ class: >50K, <=50K
 The above chart shows just how many around the world, that were surveyed, make and income above and below the $50,000 line.
 
 # Recommendations:
+It is clear that an individual's income can be based on various background variables. The more factors that leads to personal growth, the higher chances that an individual's income may be above $50,000 a year.
 
 # For further information
 For any additional questions, please contact parrisatwork@gmail.com.
