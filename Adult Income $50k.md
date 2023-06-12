@@ -41,9 +41,9 @@ class: >50K, <=50K
 # Exploratory Data Analysis
 2 analytical insights from your data analysis
 ![image](https://github.com/parrisatwork/Data-Predictions/assets/128560277/c678c564-9a46-4c5d-9cd1-79876dbe35ea)
+![image](https://github.com/parrisatwork/Data-Predictions/assets/128560277/a3c5db5b-0bb4-4c0d-8d84-517d5bc51cd8)
 
-
-
+The above chart shows just how many around the world, that were surveyed, make and income above and below the $50,000 line.
 
 # Recommendations:
 
